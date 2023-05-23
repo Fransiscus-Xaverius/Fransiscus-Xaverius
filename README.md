@@ -9,8 +9,9 @@
 	<a href="https://www.linkedin.com/in/fransiscus-xaverius-a6b254227/" rel="nofollow">
   		<img alt="Fransiscus's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 	</a>
+	![](https://github-readme-stats.vercel.app/api?username=Fransiscus-Xaverius&count_private=true&show_icons=true)
 </div>
-![](https://github-readme-stats.vercel.app/api?username=Fransiscus-Xaverius&count_private=true&show_icons=true)
+
 <!--
 
 -->
