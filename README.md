@@ -6,22 +6,32 @@
 </p>
 <p align="center">Contact me:</p>
 <p>
-<div align="center">
-	<a href="https://discord.com/users/787968792541265982" rel="nofollow">
-	 	<img alt="Fransiscus Xaverius's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
-	</a>
-	<a href="https://www.linkedin.com/in/fransiscus-xaverius-a6b254227/" rel="nofollow">
-  		<img alt="Fransiscus's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-	</a>
-	
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+
+
+ 
+<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransiscus-Xaverius&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats.vercel.app/api?username=Fransiscus-Xaverius&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransiscus-Xaverius&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats.vercel.app/api?username=Fransiscus-Xaverius&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
 </div>
 </p>
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Fransiscus-Xaverius&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-	<br>
    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fransiscus-Xaverius&theme=radical&hide_border=true">
 	<br>
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrinworx&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <!--
 
