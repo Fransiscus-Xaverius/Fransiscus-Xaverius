@@ -4,7 +4,7 @@
 <img width="49.5%" src="https://pekorahaha.com/assets/kusa.png" style="width:100px;height:100px;">
 
 </p>
-<p align="center">Contact me:</p>
+<p align="center">Contact me: </p>
 <p>
 <!-- Light Mode -->
 <div align="center"> 
