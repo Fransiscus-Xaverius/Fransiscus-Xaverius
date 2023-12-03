@@ -5,7 +5,7 @@
 
 </p>
 <p align="center">Contact me: </p>
-([![my Discord badge](https://dcbadge.vercel.app/api/shield/787968792541265982?style=flat)](https://github.com/gitlimes/discord-md-badge))
+![](https://dcbadge.vercel.app/api/shield/787968792541265982)
 <p>
 <!-- Light Mode -->
 <div align="center"> 
