@@ -9,7 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fransiscus-xaverius&label=Profile%20views&color=0e75b6&style=flat" alt="fransiscus-xaverius" /> </p>
 
-- 📫 Reach out to me @ **xaverius.fransiscus078@gmail.com** or ![](https://dcbadge.vercel.app/api/shield/787968792541265982)
+- 📫 Reach out to me via: <br>
+**xaverius.fransiscus078@gmail.com**  
+![](https://dcbadge.vercel.app/api/shield/787968792541265982)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
