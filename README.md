@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Fransiscus.;HA+↗+HA+↘+HA+↗+HA+↘+HA+↗+HA+↘;&center=true&width=500&height=50"></a></h1>
-<h3 align="center">An aspiring software engineer with a keen interest in game, Android, and web development. Currently pursuing a degree in Software Engineering</h3>
+<h3 align="center">An aspiring software engineer with a keen interest in  Android and web development. Currently pursuing a degree in Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fransiscus-xaverius&label=Profile%20views&color=0e75b6&style=flat" alt="fransiscus-xaverius" /> </p>
 
