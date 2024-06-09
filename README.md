@@ -1,10 +1,10 @@
 <p align="center">
 
-<img width="49.5%" src="https://pekorahaha.com/assets/kusa.png" style="width:100px;height:100px;">
+<img width="49.5%" src="https://media.licdn.com/dms/image/D5612AQF9PrLjyxavrQ/article-cover_image-shrink_720_1280/0/1682664185850?e=2147483647&v=beta&t=CzHEIwlSMuAmbd5fDnvWjsdA7wv91-3H2LwnzcvNUbg" >
 
 </p>
 
-<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Fransiscus.;HA+↗+HA+↘+HA+↗+HA+↘+HA+↗+HA+↘;&center=true&width=500&height=50"></a></h1>
+<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Fransiscus.;Software Engineer | Backend Developer;&center=true&width=500&height=50"></a></h1>
 <h3 align="center">An aspiring software engineer with a keen interest in  Android and web development. Currently pursuing a degree in Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fransiscus-xaverius&label=Profile%20views&color=0e75b6&style=flat" alt="fransiscus-xaverius" /> </p>
