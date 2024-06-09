@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img style="width:100%; object-fit: none;" src="https://media.licdn.com/dms/image/D5612AQF9PrLjyxavrQ/article-cover_image-shrink_720_1280/0/1682664185850?e=2147483647&v=beta&t=CzHEIwlSMuAmbd5fDnvWjsdA7wv91-3H2LwnzcvNUbg" >
+<img style=" width:20%; height:20%; object-fit: none;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlaGmEw9ZGWAvrJ67qr_2EraIcfRRpVTOhaKmVce8scAWZDtY_m8xumUYpWwAGsW0oCA&usqp=CAU" >
 
 </p>
 
