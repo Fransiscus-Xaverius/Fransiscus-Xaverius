@@ -1,13 +1,15 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fransiscus-xaverius&label=Profile%20views&color=0e75b6&style=flat" alt="fransiscus-xaverius" /> </p>
+
 <p align="center">
 
-<img width="49.5%" src="https://media.licdn.com/dms/image/D5612AQF9PrLjyxavrQ/article-cover_image-shrink_720_1280/0/1682664185850?e=2147483647&v=beta&t=CzHEIwlSMuAmbd5fDnvWjsdA7wv91-3H2LwnzcvNUbg" >
+<img style="width:100%; object-fit: none;" src="https://media.licdn.com/dms/image/D5612AQF9PrLjyxavrQ/article-cover_image-shrink_720_1280/0/1682664185850?e=2147483647&v=beta&t=CzHEIwlSMuAmbd5fDnvWjsdA7wv91-3H2LwnzcvNUbg" >
 
 </p>
 
-<h1 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Fransiscus.;Software Engineer | Backend Developer;&center=true&width=500&height=50"></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Fransiscus;Software+Engineer;Backend+Programmer" alt="Typing SVG" /></a></h1>
 <h3 align="center">An aspiring software engineer with a keen interest in  Android and web development. Currently pursuing a degree in Software Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fransiscus-xaverius&label=Profile%20views&color=0e75b6&style=flat" alt="fransiscus-xaverius" /> </p>
+
 
 - 📫 Reach out to me via: <br>
 **xaverius.fransiscus078@gmail.com**  
