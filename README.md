@@ -10,10 +10,10 @@
 <h3 align="center">An aspiring software engineer with a keen interest in Android and backend development. Currently pursuing a degree in Software Engineering</h3>
 <hr/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Frameworks and Tools:</h3>
 <p align="left"> 
 	<div align="center">
-	    <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,php,python,kotlin,html,css" /> <br>
+	    <img src="https://skillicons.dev/icons?i=cpp,c,cs,go,java,js,ts,php,python,kotlin,html,css" /> <br>
 	    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,expressjs,react,vite,laravel,ubuntu,vscode,androidstudio,github,postman,docker,git" /><br>
 	</div>
 </p>
