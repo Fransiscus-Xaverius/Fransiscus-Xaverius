@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Fransiscus;Software+Engineer;Backend+Programmer" alt="Typing SVG" /></a></h1>
-<h3 align="center">An aspiring software engineer with a keen interest in Android and backend development. Currently pursuing a degree in Software Engineering</h3>
+<h3 align="center">An aspiring software engineer with a keen interest in Android and backend development. Currently pursuing a degree in Software Engineering and a Software Developer Intern @PT HM. Sampoerna / Philip Morris International</h3>
 <hr/>
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
