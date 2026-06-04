@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hi%2C+I'm+Fransiscus;Software+Engineer;" alt="Typing SVG" /></a></h1>
-<h3 align="center">Software engineer with experience in large scale application full stack development and system architecture design. <br> Currently Software Engineer @PT HM. Sampoerna / Philip Morris International</h3>
+<h3 align="center">Software engineer with experience in large scale application full stack development and system architecture design. </h3>
 <hr/>
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
